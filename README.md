@@ -12,3 +12,10 @@ argv (argument values) é um vetor de strings.
 == p=n.p ==
 
 ls no terminal para aparecer as opções
+
+
+------
+git status 
+git add . (adiciona tudo)
+git commit -m "" (entre parenteses é o que aconteceu)
+git push origin main (pra enviar pro repositorio) 
