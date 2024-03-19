@@ -9,3 +9,5 @@ compilar:
 
 . cd (pasta)
 . gcc (aquivo) -o arquivo
+
+bóson treinamentos
